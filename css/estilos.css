@@ -1,0 +1,110 @@
+/*
+*{
+    margin: 0;
+    padding: 0;
+}
+*/
+
+/*
+body{
+    margin: 0;
+    padding: 0;
+}
+*/
+/*
+Selector x ID
+#id-p1{
+    color: blue;
+}
+
+#id-p2{
+    color: red;
+}
+
+#id-p3{
+    color: green;
+}
+*/
+
+/*
+.col-rojo{
+    background-color: red;
+}
+
+.col-verde{
+    background-color: green;
+}
+
+
+ul.lista > li{
+    color: rgb(255, 0, 0);
+    display: inline;
+} 
+
+h2 + p{
+    color: blue;
+}
+
+h3 ~ p{
+    background-color: blueviolet;
+}
+*/
+
+body{
+background-image: url(../img/logo.gif);
+background-repeat: no-repeat;
+background-position: 500px 500px;
+background-attachment: fixed;
+}
+
+
+.colr{
+    color: #e61313;
+}
+
+h2 + p {
+  border-bottom: 10px solid violet;
+  border-top: 10px solid rgb(130, 238, 144);
+  border-left: 50px solid #0000FF;
+  background-color: aqua;
+}
+
+.al-center{
+    text-align: center;
+}
+
+.al-justify{
+    text-align: justify;
+}
+
+.al-right{
+    text-align: right;
+}
+
+.tm-60{
+    font-size: 60px;
+}
+
+.tm-30{
+    font-size: 30px;
+}
+
+.tm-15{
+    font-size: 15px;
+}
+
+.tx-min{
+    text-transform: lowercase;
+}
+
+.tx-may{
+    text-transform: uppercase;
+}
+
+.sg-50{
+    text-indent: 50px;
+}
+
+.sg-25{
+    text-indent: 25px;
+}
